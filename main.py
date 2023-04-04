@@ -11,7 +11,7 @@ My name is **DongYoung**, major in **computer science**💻 since 2017 at **Pusa
 
 📂 Blog | [https://ehddud100677.tistory.com/](https://ehddud100677.tistory.com)
 
-### My latest posts
+### ✏️ My latest posts
 """  # list of blog posts will be appended here
 
 for idx, feed in enumerate(RSS_FEED['entries']):
