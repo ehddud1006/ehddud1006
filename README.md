@@ -3,7 +3,7 @@
 My name is **DongYoung**, major in **computer science**💻 since 2017 at **Pusan National University** in Pusan, South Korea.  
 **Front-end developer**, write code with **react & typescript**.
 
-📂 Blog | [https://ehddud100677.tistory.com/](https://ehddud100677.tistory.com/)
+Blog | [https://ehddud100677.tistory.com/](https://ehddud100677.tistory.com/)
 
 ### ✏️ My latest posts
 
