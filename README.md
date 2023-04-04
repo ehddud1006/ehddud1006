@@ -1,11 +1,12 @@
-
 ### Hi there 👋
+
 My name is **DongYoung**, major in **computer science**💻 since 2017 at **Pusan National University** in Pusan, South Korea.  
 **Front-end developer**, write code with **react & typescript**.
 
 📂 Blog | [https://ehddud100677.tistory.com/](https://ehddud100677.tistory.com/)
 
-### My latest posts
+### ✏️ My latest posts
+
 [2023/04/04 - 패리티 비트 & 해밍 코드](https://ehddud100677.tistory.com/790) <br/>
 [2023/04/04 - CPU의 구조와 기능](https://ehddud100677.tistory.com/789) <br/>
 [2023/04/03 - 컴퓨터 시스템의 개요](https://ehddud100677.tistory.com/788) <br/>
