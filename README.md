@@ -4,7 +4,7 @@ My name is **DongYoung**, major in **computer science**💻 since 2017 at **Pusa
 
 📂 Blog | [https://ehddud100677.tistory.com/](https://ehddud100677.tistory.com/)
 
-### Study
+### My latest posts
 
 
 <!--
