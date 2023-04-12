@@ -10,9 +10,9 @@ Blog | [https://ehddud100677.tistory.com](https://ehddud100677.tistory.com)
 퇴첵 챌린지 | [https://ehddud1006.github.io/TodayEndChallenge](https://ehddud1006.github.io/TodayEndChallenge)
 
 ### ✏️ My latest posts
+[2023/04/11 - Transfer-Encoding: Chunked](https://ehddud100677.tistory.com/799) <br/>
+[2023/04/11 - REST란? REST API 와 RESTful API](https://ehddud100677.tistory.com/798) <br/>
 [2023/04/10 - HTTP Cache](https://ehddud100677.tistory.com/797) <br/>
 [2023/04/07 - 전자서명과 CA](https://ehddud100677.tistory.com/796) <br/>
 [2023/04/07 - HTTP 와 HTTPS](https://ehddud100677.tistory.com/795) <br/>
 [2023/04/05 - 명령어 집합 구조, CISC 와 RISC](https://ehddud100677.tistory.com/792) <br/>
-[2023/04/04 - 패리티 비트 & 해밍 코드](https://ehddud100677.tistory.com/790) <br/>
-[2023/04/04 - CPU의 구조와 기능](https://ehddud100677.tistory.com/789) <br/>
