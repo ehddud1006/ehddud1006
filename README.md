@@ -5,9 +5,6 @@ My name is **DongYoung**, major in **computer science**💻 since 2017 at **Pusa
 
 Blog | [https://ehddud100677.tistory.com](https://ehddud100677.tistory.com)
 
-### 🔥 My Challenge
-하루시작 챌린지 | [https://ehddud1006.github.io/TodayStartChallenge](https://ehddud1006.github.io/TodayStartChallenge)  
-
 ### ✏️ My latest posts
 [2023/06/17 - 마진겹침 현상](https://ehddud100677.tistory.com/869) <br/>
 [2023/06/07 - [카테캠 8주차] 리액트](https://ehddud100677.tistory.com/867) <br/>
